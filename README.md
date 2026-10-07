@@ -1,4 +1,4 @@
-Contact: Thomas Johnson thjohnson@microsoft.com
+Contact: Caroline Pearson caroline.pearson1@gilead.com
 
 # Scientific workflow GitHub workshop
 
